@@ -1,0 +1,13 @@
+{
+    "label": "Українська",
+    "label_lat": "ukrainska",
+    "label_en": "Ukrainian",
+    "lang_dir": "LTR",
+    "available": true,
+    "translators": [
+        {
+            "name": "Kyryl Misnikov",
+            "url": "https://lime360.nekoweb.org/"
+        }
+    ]
+}
